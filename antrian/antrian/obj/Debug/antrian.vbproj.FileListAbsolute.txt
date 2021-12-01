@@ -1,0 +1,10 @@
+c:\users\user\documents\visual studio 2013\Projects\antrian\antrian\bin\Debug\antrian.exe.config
+c:\users\user\documents\visual studio 2013\Projects\antrian\antrian\obj\Debug\antrian.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\antrian\antrian\obj\Debug\antrian.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\antrian\antrian\obj\Debug\antrian.vbproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\antrian\antrian\bin\Debug\antrian.exe
+c:\users\user\documents\visual studio 2013\Projects\antrian\antrian\bin\Debug\antrian.pdb
+c:\users\user\documents\visual studio 2013\Projects\antrian\antrian\bin\Debug\antrian.xml
+c:\users\user\documents\visual studio 2013\Projects\antrian\antrian\obj\Debug\antrian.exe
+c:\users\user\documents\visual studio 2013\Projects\antrian\antrian\obj\Debug\antrian.xml
+c:\users\user\documents\visual studio 2013\Projects\antrian\antrian\obj\Debug\antrian.pdb
